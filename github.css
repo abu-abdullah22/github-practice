@@ -1,0 +1,9 @@
+#id{
+    background-color: cadetblue; padding: 8px;
+}
+.class{
+    background-color: rgb(160, 120, 33); padding: 8px; margin-top: 25px;
+}
+ul{
+    list-style-type: square;
+}
